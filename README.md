@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Ognjen! 
 ### Junior Software Engineer | Python ML & Java Backend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ognjenmaksimovic/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ognjen.maksimovic@gmail.com)
 
 ## 🚀 About Me
 I'm a passionate Junior Software Engineer with expertise in both Python for Machine Learning and Java for backend development. I enjoy building data-driven applications and robust backend systems.
